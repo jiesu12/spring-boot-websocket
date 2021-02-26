@@ -10,7 +10,7 @@
     </parent>
     <groupId>jiesu</groupId>
     <artifactId>spring-boot-websocket</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Spring Boot WebSocket</name>
     <description>WebSocket Library for Spring Boot</description>
     <properties>
